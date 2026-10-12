@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dotorimango\\ACH_Engineering_Compute\\Mkdir_game_with_c\\game-with-C\\LOW High\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913A37F9-3C5C-4FBB-92B2-FD5B1AE15251}|LOW High\\LOW High.vcxproj|C:\\Users\\dotorimango\\ACH_Engineering_Compute\\Mkdir_game_with_c\\game-with-C\\LOW High\\LOW High\\Low\u0026High.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{913A37F9-3C5C-4FBB-92B2-FD5B1AE15251}|LOW High\\LOW High.vcxproj|solutionrelative:LOW High\\Low\u0026High.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Low\u0026High.cpp",
+              "DocumentMoniker": "C:\\Users\\dotorimango\\ACH_Engineering_Compute\\Mkdir_game_with_c\\game-with-C\\LOW High\\LOW High\\Low\u0026High.cpp",
+              "RelativeDocumentMoniker": "LOW High\\Low\u0026High.cpp",
+              "ToolTip": "C:\\Users\\dotorimango\\ACH_Engineering_Compute\\Mkdir_game_with_c\\game-with-C\\LOW High\\LOW High\\Low\u0026High.cpp",
+              "RelativeToolTip": "LOW High\\Low\u0026High.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T13:47:39.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
